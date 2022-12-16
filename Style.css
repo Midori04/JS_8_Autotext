@@ -1,0 +1,21 @@
+.b1 {
+    background-color:cornflowerblue;
+}
+
+.h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.box1 {
+    display: flex;
+    justify-content: center;
+}
+
+
+
